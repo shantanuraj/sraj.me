@@ -7,4 +7,4 @@ spoiler: "Some thoughts on the themes of Exhalation"
 
 It is what it is.
 
-> Thoughts on the general theme of the book.
+> Thoughts on the general theme of the [book](https://www.goodreads.com/book/show/41160292-exhalation).
