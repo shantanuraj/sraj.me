@@ -21,8 +21,9 @@ const IndexPage = () => (
           <Outbound href="https://toggl.com">Toggl</Outbound> building their
           web-applications.
         </p>
-        <p>I enjoy working with TypeScript and Go the most.</p>
-        <p>Sometimes I dabble with Android too.</p>
+        <p>I've been working with TypeScript and Go for the most part.</p>
+        <p>In my spare time I'm building <Outbound href="https://podcst.app">Podcst.app</Outbound></p>
+        <p>Sometimes I dabble with <Outbound href="https://timelines.sixth.io/">Android & iOS</Outbound> as well.</p>
         <div style={{ maxWidth: '412px', marginBottom: '1.45rem' }}>
           <Avatar />
         </div>
